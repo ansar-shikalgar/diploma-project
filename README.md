@@ -18,3 +18,23 @@ User authentication
 Cart management system
 
 This project is developed as part of an academic / learning project.
+
+🛠️ Technologies Used
+    Frontend
+      HTML5
+      CSS3
+      Bootstrap
+  
+    JavaScript
+      jQuery
+  
+    Backend
+      PHP
+      
+    Database
+      MySQL
+  
+    Tools
+      XAMPP / WAMP Server
+      
+    Web Browser (Chrome / Edge)
