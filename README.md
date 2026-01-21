@@ -46,6 +46,53 @@ This project is developed as part of an academic / learning project.
       About Us & Contact Us Pages
       Email Support (Contact Form)
       Secure Logout
-  
+
+# Project Structure
+
+      e-commerce_website/
+      │
+      ├── css/                # Stylesheets (Bootstrap & custom CSS)
+      ├── js/                 # JavaScript & jQuery files
+      ├── fonts/              # Bootstrap fonts
+      ├── database/
+      │   └── ecommerce.sql   # Database file
+      │
+      ├── signup.php
+      ├── login_submit.php
+      ├── products.php
+      ├── cart.php
+      ├── cart-add.php
+      ├── cart-remove.php
+      ├── settings.php
+      ├── success.php
+      ├── logout_script.php
+      ├── contact_us.php
+      ├── about_us.php
+
+# Installation & Setup
+      *Follow these steps to run the project locally:
+
+1️⃣ Install XAMPP
+      Download and install XAMPP from the official website.
+      
+2️⃣ Start Services
+      Start:
+         *Apache
+         *MySQL
+         
+3️⃣ Import Database
+      *Open phpMyAdmin
+      *Create a database named:
+         ecommerce
+      *Import the file:
+         database/ecommerce.sql
+         
+4️⃣ Move Project Files
+      *Copy the project folder to:
+         xampp/htdocs/
+
+5️⃣ Run the Project
+      *Open your browser and go to:
+         http://localhost/e-commerce_website/
   
    
