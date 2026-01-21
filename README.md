@@ -36,7 +36,16 @@ This project is developed as part of an academic / learning project.
     *Tools
         XAMPP / WAMP Server
         Web Browser (Chrome / Edge)
-    
+
+# Features
+      User Signup & Login
+      Product Listing
+      Add to Cart & Remove from Cart
+      Order Summary & Checkout
+      User Settings (Password Update)
+      About Us & Contact Us Pages
+      Email Support (Contact Form)
+      Secure Logout
   
   
    
